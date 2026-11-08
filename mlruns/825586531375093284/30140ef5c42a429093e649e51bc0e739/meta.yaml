@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shop/Downloads/ML_Project/mlruns/825586531375093284/30140ef5c42a429093e649e51bc0e739/artifacts
+end_time: 1778740268952
+entry_point_name: ''
+experiment_id: '825586531375093284'
+lifecycle_stage: active
+run_id: 30140ef5c42a429093e649e51bc0e739
+run_name: Diabetes_GradientBoosting_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778740248137
+status: 3
+tags: []
+user_id: shop

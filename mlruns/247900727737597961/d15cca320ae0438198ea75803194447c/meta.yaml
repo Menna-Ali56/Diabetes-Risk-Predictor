@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\shop\Downloads\ML_Project/mlruns/247900727737597961/d15cca320ae0438198ea75803194447c/artifacts
+end_time: 1778695088796
+entry_point_name: ''
+experiment_id: '247900727737597961'
+lifecycle_stage: active
+run_id: d15cca320ae0438198ea75803194447c
+run_name: Final_Model_Check
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778695084006
+status: 3
+tags: []
+user_id: shop

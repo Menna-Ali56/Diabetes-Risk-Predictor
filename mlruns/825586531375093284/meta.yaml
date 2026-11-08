@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/shop/Downloads/ML_Project/mlruns/825586531375093284
+creation_time: 1778695634172
+experiment_id: '825586531375093284'
+last_update_time: 1778695634172
+lifecycle_stage: active
+name: Diabetes_GradientBoosting
+trace_location: null
+workspace: default

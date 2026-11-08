@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shop/Downloads/ML_Project/mlruns/827377410776128673/models/m-48553e09689c4daf9214d532511538f4/artifacts
+creation_timestamp: 1778740204525
+experiment_id: '827377410776128673'
+last_updated_timestamp: 1778740248089
+model_id: m-48553e09689c4daf9214d532511538f4
+model_type: null
+name: randomforest_diabetes_model
+source_run_id: 6d436a9be261420f947f2614b54e28f0
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shop/Downloads/ML_Project/mlruns/585270564527819824/d1a1e5a6ad164421a52f64658376c773/artifacts
+end_time: 1778695650385
+entry_point_name: ''
+experiment_id: '585270564527819824'
+lifecycle_stage: active
+run_id: d1a1e5a6ad164421a52f64658376c773
+run_name: Diabetes_LogisticRegression_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778695642653
+status: 3
+tags: []
+user_id: shop

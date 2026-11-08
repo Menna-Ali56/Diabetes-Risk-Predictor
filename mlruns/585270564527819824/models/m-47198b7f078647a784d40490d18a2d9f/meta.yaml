@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shop/Downloads/ML_Project/mlruns/585270564527819824/models/m-47198b7f078647a784d40490d18a2d9f/artifacts
+creation_timestamp: 1778740269175
+experiment_id: '585270564527819824'
+last_updated_timestamp: 1778740285760
+model_id: m-47198b7f078647a784d40490d18a2d9f
+model_type: null
+name: logisticregression_diabetes_model
+source_run_id: f971104c4f7a4b8ca6c864b81ca0aece
+status: 2
+status_message: null

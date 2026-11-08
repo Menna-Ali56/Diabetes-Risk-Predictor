@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\shop\Downloads\ML_Project/mlruns/247900727737597961/91a6b72555264260b98a9d01d2089f09/artifacts
+end_time: 1778695694928
+entry_point_name: ''
+experiment_id: '247900727737597961'
+lifecycle_stage: active
+run_id: 91a6b72555264260b98a9d01d2089f09
+run_name: RF_Diabetes_Safe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778695666502
+status: 3
+tags: []
+user_id: shop

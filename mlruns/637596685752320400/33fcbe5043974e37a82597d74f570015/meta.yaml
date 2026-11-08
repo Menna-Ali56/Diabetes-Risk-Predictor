@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shop/Downloads/ML_Project/mlruns/637596685752320400/33fcbe5043974e37a82597d74f570015/artifacts
+end_time: 1778740306194
+entry_point_name: ''
+experiment_id: '637596685752320400'
+lifecycle_stage: active
+run_id: 33fcbe5043974e37a82597d74f570015
+run_name: GB_Diabetes_100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778740285885
+status: 3
+tags: []
+user_id: shop

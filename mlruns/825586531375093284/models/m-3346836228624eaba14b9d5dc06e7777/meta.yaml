@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shop/Downloads/ML_Project/mlruns/825586531375093284/models/m-3346836228624eaba14b9d5dc06e7777/artifacts
+creation_timestamp: 1778695634441
+experiment_id: '825586531375093284'
+last_updated_timestamp: 1778695642616
+model_id: m-3346836228624eaba14b9d5dc06e7777
+model_type: null
+name: gradientboosting_diabetes_model
+source_run_id: d8b7071e87694e47bc902bffa9e8e43a
+status: 2
+status_message: null

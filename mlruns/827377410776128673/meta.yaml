@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/shop/Downloads/ML_Project/mlruns/827377410776128673
+creation_time: 1778695620048
+experiment_id: '827377410776128673'
+last_update_time: 1778695620048
+lifecycle_stage: active
+name: Diabetes_RandomForest
+trace_location: null
+workspace: default

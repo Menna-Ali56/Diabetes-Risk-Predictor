@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/shop/Downloads/ML_Project/mlruns/585270564527819824
+creation_time: 1778695642639
+experiment_id: '585270564527819824'
+last_update_time: 1778695642639
+lifecycle_stage: active
+name: Diabetes_LogisticRegression
+trace_location: null
+workspace: default

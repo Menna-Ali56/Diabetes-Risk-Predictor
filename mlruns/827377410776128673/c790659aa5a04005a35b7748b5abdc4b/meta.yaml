@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shop/Downloads/ML_Project/mlruns/827377410776128673/c790659aa5a04005a35b7748b5abdc4b/artifacts
+end_time: 1778695634160
+entry_point_name: ''
+experiment_id: '827377410776128673'
+lifecycle_stage: active
+run_id: c790659aa5a04005a35b7748b5abdc4b
+run_name: Diabetes_RandomForest_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778695620309
+status: 3
+tags: []
+user_id: shop
